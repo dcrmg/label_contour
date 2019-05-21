@@ -5,7 +5,8 @@
 
 ## Usage
 
-```cd Release
+```shell
+cd Release
 LabelC.exe D:\img_folder D:\save_folder
 ```
 where `D:\img_floder` refers to the images folder to be labeled, `D:\save_folder` refers to the images folder of label result.
